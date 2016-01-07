@@ -1,0 +1,45 @@
+{
+  "name": "eventsource-polyfill",
+  "main": [
+    "javascript/src/eventsource.js",
+    "eventsource.min.js"
+  ],
+  "homepage": "https://github.com/streamdataio/EventSource",
+  "authors": [
+    "Motwin"
+  ],
+  "description": "Javascript EventSource polyfill for Streamdata.io",
+  "keywords": [
+    "streamdata",
+    "streamdata.io",
+    "push",
+    "sse",
+    "server-sent-event",
+    "polyfill"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "javascript",
+    "test_server",
+    "Gruntfile.js",
+    "package.json",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "docs"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "version": "1.0.1",
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.1",
+    "commit": "3c820b41a3cdb6744948696454ef5333685ac99b"
+  },
+  "_source": "https://github.com/streamdataio/EventSource.git",
+  "_target": "v1.0.1",
+  "_originalSource": "https://github.com/streamdataio/EventSource.git"
+}
